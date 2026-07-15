@@ -1,6 +1,4 @@
 # terraform-ansible-kubernetes-gcp
-# ExamDevOps2
-
 ## Overview
 
 This repository demonstrates an end-to-end DevOps workflow for provisioning infrastructure, configuring a Kubernetes environment, and deploying a containerized application on Google Cloud Platform (GCP). The project is divided into three main stages.
